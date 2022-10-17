@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/register-app/static/css/main.a9b3e15a.css",
+    "main.js": "/register-app/static/js/main.bfe52050.js",
+    "static/js/787.28cb0dcd.chunk.js": "/register-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/register-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/register-app/index.html",
+    "main.a9b3e15a.css.map": "/register-app/static/css/main.a9b3e15a.css.map",
+    "main.bfe52050.js.map": "/register-app/static/js/main.bfe52050.js.map",
+    "787.28cb0dcd.chunk.js.map": "/register-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b3e15a.css",
+    "static/js/main.bfe52050.js"
+  ]
+}
